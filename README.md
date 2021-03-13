@@ -26,7 +26,7 @@ As per the scope of this script, you will deploy:
 
 The script defaults to the "us-east-2a" availability zone. Adjust the value according to your configuration.
 
-Location of All Availability Zone Configurations (by comment):
+Location of All Availability Zone Configurations:
 * Subnet ... AvailabilityZone: us-east-2a
 * EC2 Instance ... AvailabilityZone: us-east-2a
 
@@ -35,7 +35,7 @@ Location of All Availability Zone Configurations (by comment):
 This script is intended for demonstration purposes. Open access (i.g. 0.0.0.0/0) is enabled by default. 
 Adjust this value as necessary to your configuration. 
 
-Location of All Security Warnings (by commment):
+Location of All Security Warnings:
 * Route ... DestinationCidrBlock: "0.0.0.0/0" 
 * Security Group ... CidrIp='0.0.0.0/0'
 
