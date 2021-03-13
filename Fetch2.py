@@ -83,8 +83,6 @@ route = route_table.create_route(
         GatewayId=internet_gateway.id
         )
 
-#Skipping Network ACL To Test Deployment W/O
-
 #Security Group
 security_group = ec2.create_security_group(
         Description='Fetch Open SSH',
