@@ -20,7 +20,7 @@ As per the scope of this script, you will deploy:
     * virtualization_type: hvm 
   * two volumes: 10 GiB, 100 GiB (mounted in / & /data)
   * two users: user1, user2 (with configured public keys)
-* an Elastic IP address and associate it to the EC2 instance
+  * an Elastic IP address
 
 ## Warning
 
