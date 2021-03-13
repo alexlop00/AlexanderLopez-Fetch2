@@ -67,23 +67,23 @@ NOTE: Code has been tested on Ubuntu 20.04 image (AMI Name: ubuntu/images/hvm-ss
 
 Run the script.
 
-![Script](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/RunScript.PNG)
+![Script](https://github.com/alexlop00/AlexanderLopez-Fetch2/blob/20662885528e2fb08195a23b92fd26c768306ebf/ProofofConcept/runScript.PNG)
 
 Access EC2 Instance via EC2 Connect.
 
-![EC2 Connect](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/EC2Connect.png)
+![EC2 Connect](https://github.com/alexlop00/AlexanderLopez-Fetch2/blob/20662885528e2fb08195a23b92fd26c768306ebf/ProofofConcept/EC2Connect.png)
 
 View created users.
 
-![Created Users](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/createdUsers.PNG)
+![Created Users](https://github.com/alexlop00/AlexanderLopez-Fetch2/blob/20662885528e2fb08195a23b92fd26c768306ebf/ProofofConcept/users.PNG)
 
 Access user accounts via SSH private key.
 
-![SSH](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/SSHAccess.PNG)
+![SSH](https://github.com/alexlop00/AlexanderLopez-Fetch2/blob/20662885528e2fb08195a23b92fd26c768306ebf/ProofofConcept/userAccess.png)
 
 View volume mounts.
 
-![Mounts](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/blockmounts.PNG)
+![Mounts](https://github.com/alexlop00/AlexanderLopez-Fetch2/blob/20662885528e2fb08195a23b92fd26c768306ebf/ProofofConcept/mounts.PNG)
 
 
 
