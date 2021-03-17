@@ -1,5 +1,4 @@
-# AlexanderLopez - Fetch2
-Fetch Rewards Coding Exercise - Using Python3 &amp; Boto3 Only
+# boto3 Challenge
 
 # Introduction
 ## Scope
